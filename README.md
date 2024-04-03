@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi , I'm Abdul Hannan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr/>
 <h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. I'm currently associated with Codiux, as a full-time Software Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
 </h5>
 <br/>
