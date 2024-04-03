@@ -44,11 +44,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div>
 
-## ⚡ GitHub Activity Graph:
-  <br/>
-   <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CodeWithBati&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 ## Technologies
 
 <div style="display: inline-block"><br />
